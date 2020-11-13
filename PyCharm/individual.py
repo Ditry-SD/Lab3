@@ -6,4 +6,5 @@ if (a == 0 and b == 0):
 if (a == 0 and b != 0):
     print("No solutions.")
 if (a != 0):
-    print(b/a)
+    print("X = {0}.".format(b/a))
+2
